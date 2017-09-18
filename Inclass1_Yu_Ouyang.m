@@ -1,4 +1,5 @@
-% InClass1: some simple excerises to get started with MATLAB. Please complete by
+% AW: Looks good 1/1.  
+%InClass1: some simple excerises to get started with MATLAB. Please complete by
 % the second class. Answer questions in comments and return assignment via
 % github
 %% numbers vs strings
